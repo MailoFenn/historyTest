@@ -83,3 +83,22 @@ main .content{
 #res{
     margin-bottom: 20px;
 }
+
+.menu{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    margin-top: 30px;
+    margin-left: 20px;
+    float: left;
+}
+
+li a{
+    text-decoration: none;
+    color: #474747;
+    font-size: 20px;
+} 
+
+li{
+    margin-bottom: 20px;
+}
